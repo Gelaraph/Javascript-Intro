@@ -1,1 +1,1 @@
-# Javascript-Intro
+# Zuri Javascript-Intro
